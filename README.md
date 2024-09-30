@@ -1,5 +1,9 @@
 # ffmpeg-datamosh
+
 Datamoshing with ffmpeg
+
+[![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/whatmakeart/ffmpeg-audio-mosh/blob/main/ffmpeg_audio_filter_datamosh.ipynb)
+
 
 Inspired and adapted from [Reddit thread comments](https://www.reddit.com/r/datamoshing/comments/t46x3i/datamoshing_with_ffmpeg_howto_in_comments/) by user [justhadto](https://www.reddit.com/user/justhadto/)
 
